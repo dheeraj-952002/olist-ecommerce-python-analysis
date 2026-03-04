@@ -66,7 +66,7 @@ This visualization shows how the number of orders changes across months.
 
 This chart shows how delivery time varies across orders.
 
-![Deliverytime Distribution Chart](image/deliverytime_distribution_Chart.png)
+
 
 ---
 
